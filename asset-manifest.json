@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Jpham21.github.io/static/css/main.8d16422d.css",
+    "main.js": "/Jpham21.github.io/static/js/main.d4f80119.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Jpham21.github.io/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/Jpham21.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_subj.png": "/Jpham21.github.io/static/media/logo_subj.c19a8a5ef517b7293c23.png",
+    "static/media/LaBelleAurore.woff2": "/Jpham21.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-j2.png": "/Jpham21.github.io/static/media/logo-j2.5a67ad6409dbed05a20c.png",
+    "static/media/J.png": "/Jpham21.github.io/static/media/J.6ee429e2ced50c25a521.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Jpham21.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Jpham21.github.io/index.html",
+    "main.8d16422d.css.map": "/Jpham21.github.io/static/css/main.8d16422d.css.map",
+    "main.d4f80119.js.map": "/Jpham21.github.io/static/js/main.d4f80119.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Jpham21.github.io/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d16422d.css",
+    "static/js/main.d4f80119.js"
+  ]
+}
